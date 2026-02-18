@@ -1,25 +1,25 @@
-### Hi, I'm Dami 👋
+## Hi, I'm Dami
 
-**Full-stack developer** focused on Web3 and DeFi. Studied medicine, taught myself to code, and started building.
-
----
-
-**What I've built:**
-
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [KasGate](https://github.com/dmz4pf/kasgate) | Kaspa payment gateway — accept KAS via API | Next.js · TypeScript · Kaspa |
-| [WhaleVault](https://github.com/dmz4pf/whalevault) | Privacy vault for Solana using ZK proofs | Next.js · Solana · zkSNARKs |
-| [DeepRock](https://github.com/dmz4pf/deeprock) | Institutional RWA platform on Avalanche | Next.js · Solidity · ERC-4337 |
-| [Cyber Air Hockey](https://github.com/dmz4pf/cyber-air-hockey) | Multiplayer game with ELO rankings + blockchain | Next.js · WebSocket · Matter.js |
-| [BoxBattle](https://github.com/dmz4pf/boxbattlemantle) | On-chain Dots and Boxes strategy game | Next.js · Solidity · Somnia |
+Full-stack developer focused on Web3 and DeFi. Studied medicine, taught myself to code, started building.
 
 ---
 
-**Stack I reach for:**
+**Projects:**
 
-`TypeScript` `Next.js` `Solidity` `Solana` `Avalanche` `Node.js` `WebSocket` `PostgreSQL` `Tailwind`
+| | What it does | Stack |
+|-|-------------|-------|
+| [KasGate](https://github.com/dmz4pf/kasgate) | Kaspa payment gateway — accept KAS via API, get webhook notifications | Next.js, TypeScript, Bun, Kaspa |
+| [WhaleVault](https://github.com/dmz4pf/whalevault) | Privacy layer for Solana using zero-knowledge proofs | Next.js, Solana, zkSNARKs |
+| [DeepRock](https://github.com/dmz4pf/deeprock) | On-chain RWA investment pools (treasury bills, private credit, real estate) | Next.js, Solidity, ERC-4337, Avalanche |
+| [Cyber Air Hockey](https://github.com/dmz4pf/cyber-air-hockey) | Multiplayer air hockey with ELO rankings and on-chain match records | Next.js, WebSocket, Matter.js |
+| [BoxBattle](https://github.com/dmz4pf/boxbattlemantle) | Dots and Boxes with real-time multiplayer and on-chain game state | Next.js, Solidity, Somnia |
 
 ---
 
-> Previously: MBBS graduate · Now: building on-chain
+**Stack:**
+
+`TypeScript` `Next.js` `Solidity` `Solana` `Avalanche` `Node.js` `WebSocket` `Tailwind`
+
+---
+
+Previously: MBBS. Now: building.
